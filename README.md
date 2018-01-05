@@ -2,7 +2,7 @@
 
 http://www.linkedin.com/in/brett-dion 
 
-| MEMBERSHIPS | |  
+| Highlights of experience | |  
  ----------------- | -------------- | 
 Archivists Round Table of NYC | Society of American Archivists
 Association of Registrars and Collections Specialists (ARCS) | American Alliance of Museums | 
@@ -112,11 +112,13 @@ Terms at WNBC’s Local Advertising & Promotion dept. and NBC News’ Today - We
 Masters of Science with Archives Certification | Graduated with distinction
 **Hofstra University**, Hempstead, NY | 
 Bachelor of Arts | Major in Communication Arts, minor in English. Concentration in film
- 
+
+
 | COMPUTER/DATABASE SKILLS | |  
 | ----------------- | ---------------- |
 Microsoft Office, Photoshop, Adobe Audition, Pinnacle Studio, PastPerfect, Archivist’s Toolkit, ArchivesSpace | Knowledge of MARC, EAD, GIT, HTML programming
- 
+
+
 | MEMBERSHIPS | |  
  ----------------- | -------------- | 
 Archivists Round Table of NYC | Society of American Archivists

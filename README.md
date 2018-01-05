@@ -2,11 +2,12 @@
 
 http://www.linkedin.com/in/brett-dion 
 
-| **Highlights of experience** | |  
+| __Highlights of experience__ | |  
  ----------------- | -------------- | 
 Collections and reference experience within institutions of history (Transit Museum and Brooklyn Historical Society), an academic library (Pratt Institute), and a public library (Brooklyn Public Library) | Appraising, arranging, cataloging and digitizing documents and objects since 2006 
-Digitized, processed, described at item-level, & presented on oral history collections at BHS | Created EAD finding aids according to DACS and institution standards  
+Digitized, processed, described at item-level, & presented on oral history collections at BHS | Created EAD finding aids according to DACS and institution standards 
 Extensive use of archives management applications (AT, ArchivesSpace, PastPerfect) | Presented on cataloging and exhibiting collections and helped curate exhibits at NYTM 
+
 ## **BROOKLYN HISTORICAL SOCIETY**
 ###### October 2015 – November 2017 | Oral History Project Archivist
 Executed the processing and description of one contemporary and nine legacy oral history collections inclusive of over 400 interviews, using AACR2 and DACS standards.
@@ -100,17 +101,17 @@ Conducted tours of the studios and offices for the public.
 
 Terms at WNBC’s Local Advertising & Promotion dept. and NBC News’ Today - Weekend Edition.  
  
-* EDUCATION  
+* __EDUCATION__  
   * **Pratt Institute, School of Information & Library Science**, New York, NY 
     * Masters of Science with Archives Certification. Graduated with distinction.
   * **Hofstra University**, Hempstead, NY 
     * Bachelor of Arts. Major in Communication Arts, minor in English. Concentration in film.
  
-* COMPUTER/DATABASE SKILLS  
+* __COMPUTER/DATABASE SKILLS__  
   * Microsoft Office, Photoshop, Adobe Audition, Pinnacle Studio, PastPerfect, Archivist’s Toolkit, ArchivesSpace
   * Knowledge of MARC, EAD, GIT, HTML programming
  
- * MEMBERSHIPS
+ * __MEMBERSHIPS__
    * Archivists Round Table of NYC 
    * Society of American Archivists
    * Association of Registrars and Collections Specialists (ARCS) 

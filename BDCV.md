@@ -100,16 +100,16 @@ Conducted tours of the studios and offices for the public.
 
 Terms at WNBC’s Local Advertising & Promotion dept. and NBC News’ Today - Weekend Edition.
 
-EDUCATION |
+| EDUCATION |
 --------------- | --------------- | --------------- |
 Pratt Institute, School of Information & Library Science, New York, NY | Masters of Science with Archives Certification | Graduated with distinction
 Hofstra University, Hempstead, NY | Bachelor of Arts | Major in Communication Arts, minor in English | Concentration in film
 
-COMPUTER/DATABASE SKILLS |
+| COMPUTER/DATABASE SKILLS |
 ----------------- | ---------------- |
 Microsoft Office, Photoshop, Adobe Audition, Pinnacle Studio, PastPerfect, Archivist’s Toolkit, ArchivesSpace | Knowledge of MARC, EAD, GIT, HTML programming
 
-MEMBERSHIPS |
+| MEMBERSHIPS |
 ----------------- | -------------- |
 Archivists Round Table of NYC | Society of American Archivists
 Association of Registrars and Collections Specialists (ARCS) | American Alliance of Museums | Former member of the Association of Moving Image Archivists

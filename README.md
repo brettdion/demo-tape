@@ -1,7 +1,4 @@
 # demo-tape
-first repo, man
-# **markup can appear meaningful**  
-## And this <i>isn't</i> so important  
-Hurrah :sparkles:
-**P.S.** 
-Postscript needed here
+**This first repository for me is a space to experiment with GitHub Desktop, the Atom application, and the Markdown syntax.**  
+:sparkles:  
+_Brett_  

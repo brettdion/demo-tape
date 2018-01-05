@@ -113,7 +113,7 @@ Bachelor of Arts | Major in Communication Arts, minor in English. Concentration 
 Microsoft Office, Photoshop, Adobe Audition, Pinnacle Studio, PastPerfect, Archivist’s Toolkit, ArchivesSpace | Knowledge of MARC, EAD, GIT, HTML programming
 
 | MEMBERSHIPS | |  
-| ----------------- | -------------- | 
+ ----------------- | -------------- | 
 Archivists Round Table of NYC | Society of American Archivists
 Association of Registrars and Collections Specialists (ARCS) | American Alliance of Museums | 
 Former member of the Association of Moving Image Archivists |

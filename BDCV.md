@@ -2,10 +2,11 @@
 
 http://www.linkedin.com/in/brett-dion
 
-| Highlights of experience | |
--------------------------------------------------------- | ------------------------------------------------------------------------------------------------
-Appraising, arranging, cataloging and digitizing documents and objects since 2006 | Collections and reference experience within institutions of history (Transit Museum and Brooklyn Historical Society), an academic library (Pratt Institute), and a public library (Brooklyn Public Library) | Presented on cataloging and exhibiting collections and helped curate exhibits at NYTM
-Created EAD finding aids according to DACS and institution standards | Digitized, processed, described at item-level, & presented on oral history collections at BHS | Extensive use of archives management applications (AT, ArchivesSpace, PastPerfect)
+| Highlights of experience |  |  
+-------------------------------------------------------- |  ------------------------------------------------------------------------------------------------ |  
+Collections and reference experience within institutions of history (Transit Museum and Brooklyn Historical Society), an academic library (Pratt Institute), and a public library (Brooklyn Public Library)  |  Appraising, arranging, cataloging and digitizing documents and objects since 2006  |  
+Created EAD finding aids according to DACS and institution standards | Digitized, processed, described at item-level, & presented on oral history collections at BHS | 
+Extensive use of archives management applications (AT, ArchivesSpace, PastPerfect) |  Presented on cataloging and exhibiting collections and helped curate exhibits at NYTM |  
 ## **BROOKLYN HISTORICAL SOCIETY**
 ###### October 2015 – November 2017 | Oral History Project Archivist
 Executed the processing and description of one contemporary and nine legacy oral history collections inclusive of over 400 interviews, using AACR2 and DACS standards.

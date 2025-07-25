@@ -1,6 +1,6 @@
 # **BRETT DION, MLS**
 
-39 Palmer Avenue, Croton on Hudson, NY 10520       www.linkedin.com/in/brett-dion
+New York Metropolitan area       www.linkedin.com/in/brett-dion
 ------------------------------------------------------------------------------------------------
 | Highlights of experience |  |
 | ------------------------------------------------------ | ----------------------------------------- |
